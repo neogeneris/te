@@ -1,6 +1,6 @@
 /**
  * Generic Parser
- * @autor: neo.generis@gmail.com
+ * @author: neo.generis@gmail.com
  */
 
 <?php
