@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * BlockBuilder
+ * @author: neo.generis@gmail.com
+ */
 class BlockBuilder{
 	
 	protected $block;
