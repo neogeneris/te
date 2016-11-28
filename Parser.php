@@ -1,3 +1,8 @@
+/**
+ * Generic Parser
+ * @autor: neo.generis@gmail.com
+ */
+
 <?php
 
 class Parser{
